@@ -1,0 +1,7 @@
+.index {
+    background-image:url("https://pokeyi.github.io/dark-honeycomb.png");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
