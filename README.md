@@ -1,6 +1,6 @@
 # pokeyi.github.io
 
-Simple HTML page for [Pokeyi.dev](https://pokeyi.dev) utilizing GitHub Pages.
+Simple HTML page for [pokeyi.dev](https://pokeyi.dev) utilizing GitHub Pages.
 
 CSS Framework: [Bulma](https://bulma.io)
 
