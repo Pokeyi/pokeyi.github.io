@@ -1,14 +1,36 @@
 # pokeyi.github.io
-
 Simple HTML page for [Pokeyi.dev](https://pokeyi.dev) utilizing GitHub Pages.
 
 [![Banner](Pokeyi_Banner.png)](https://pokeyi.dev)
 
-CSS Framework: [Bulma](https://bulma.io)
+### Features
+- CSS Framework: [Bulma](https://bulma.io)
+- Icon Set: [Font Awesome](https://fontawesome.com)
+- CNAME file for DNS resolution.
 
-Icon Set: [Font Awesome](https://fontawesome.com)
+## My Projects
+I'll use this repository as a hub for my other projects as well.
 
-CNAME file for DNS resolution.
+### VRC-Omni-Action [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Omni-Action/total?logo=github)](https://github.com/Pokeyi/VRC-Omni-Action)
+Multi-purpose user-action/event and function-handling component for VRChat.
+
+### VRC-Floater-Sync [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Floater-Sync/total?logo=github)](https://github.com/Pokeyi/VRC-Floater-Sync)
+UTC-synced bobbing and rocking motion for floating objects in VRChat.
+
+### VRC-Haptics-Profile [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Haptics-Profile/total?logo=github)](https://github.com/Pokeyi/VRC-Haptics-Profile)
+Controller haptics profile for VRChat.
+
+### VRC-Animation-Sync [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Animation-Sync/total?logo=github)](https://github.com/Pokeyi/VRC-Animation-Sync)
+ UTC animation sync for VRChat.
+
+### VRC-Object-Spawner [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Object-Spawner/total?logo=github)](https://github.com/Pokeyi/VRC-Object-Spawner)
+Network-synced object spawner & controller for VRChat.
+
+### VRC-Player-Tracking [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Player-Tracking/total?logo=github)](https://github.com/Pokeyi/VRC-Player-Tracking)
+Local player body-part tracking for VRChat.
+
+### VRC-Raycast-Laser [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Raycast-Laser/total?logo=github)](https://github.com/Pokeyi/VRC-Raycast-Laser)
+Raycast laser renderer and point-plotter for VRChat.
 
 ## Credit & Support
 Please credit me as Pokeyi if you use my work. I would also love to see your creations that make use of it if you're inclined to share. This and [related projects](https://github.com/Pokeyi/VRC-Omni-Action) at release have involved over three months of solid work and self-education as I strive for an opportunity to change careers and make a better life for myself. If you find value in my work, please consider supporting me, I appreciate it more than you can imagine!
