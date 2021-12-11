@@ -61,3 +61,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Recommended Projects
+Other useful VRChat world-creation tools that I will always recommend.
+- [World Creator Assistant](https://github.com/Varneon/WorldCreatorAssistant) (SDK & Package Management)
+- [CyanEmu](https://github.com/CyanLaser/CyanEmu) (Unity-Window Testing)
+- [Udon AudioLink](https://github.com/llealloo/vrc-udon-audio-link) (Audio Data Input)
+- [Udon Platform Hook](https://github.com/Superbstingray/UdonPlayerPlatformHook) (Moving-Platform Functionality)
