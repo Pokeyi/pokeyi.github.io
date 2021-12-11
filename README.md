@@ -1,5 +1,5 @@
 # pokeyi.github.io
-Simple HTML page for [Pokeyi.dev](https://pokeyi.dev) utilizing GitHub Pages.
+Simple HTML page for [Pokeyi.dev](https://pokeyi.dev) utilizing GitHub Pages. Also a hub for my other projects.
 
 [![Banner](Pokeyi_Banner.png)](https://pokeyi.dev)
 
