@@ -10,25 +10,25 @@ Simple HTML page for [Pokeyi.dev](https://pokeyi.dev) utilizing GitHub Pages. Al
 ## My Projects
 I'll use this repository as a hub for my other projects as well.
 
-### [VRC-Omni-Action](https://github.com/Pokeyi/VRC-Omni-Action) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Omni-Action/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Omni-Action/releases) -->
+### [📄](https://github.com/Pokeyi/VRC-Omni-Action/blob/main/P_OmniAction.cs) [VRC-Omni-Action](https://github.com/Pokeyi/VRC-Omni-Action) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Omni-Action/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Omni-Action/releases) -->
 Multi-purpose user-action/event and function-handling component for VRChat.
 
-### [VRC-Floater-Sync](https://github.com/Pokeyi/VRC-Floater-Sync) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Floater-Sync/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Floater-Sync/releases) -->
+### [📄](https://github.com/Pokeyi/VRC-Floater-Sync/blob/main/P_FloaterSync.cs) [VRC-Floater-Sync](https://github.com/Pokeyi/VRC-Floater-Sync) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Floater-Sync/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Floater-Sync/releases) -->
 UTC-synced bobbing and rocking motion for floating objects in VRChat.
 
-### [VRC-Haptics-Profile](https://github.com/Pokeyi/VRC-Haptics-Profile) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Haptics-Profile/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Haptics-Profile/releases) -->
+### [📄](https://github.com/Pokeyi/VRC-Haptics-Profile/blob/main/P_HapticsProfile.cs) [VRC-Haptics-Profile](https://github.com/Pokeyi/VRC-Haptics-Profile) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Haptics-Profile/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Haptics-Profile/releases) -->
 Controller haptics profile for VRChat.
 
-### [VRC-Animation-Sync](https://github.com/Pokeyi/VRC-Animation-Sync) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Animation-Sync/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Animation-Sync/releases) -->
+### [📄](https://github.com/Pokeyi/VRC-Animation-Sync/blob/main/P_AnimSync.cs) [VRC-Animation-Sync](https://github.com/Pokeyi/VRC-Animation-Sync) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Animation-Sync/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Animation-Sync/releases) -->
  UTC animation sync for VRChat.
 
-### [VRC-Object-Spawner](https://github.com/Pokeyi/VRC-Object-Spawner) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Object-Spawner/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Object-Spawner/releases) -->
+### [📄](https://github.com/Pokeyi/VRC-Object-Spawner/blob/main/P_ObjectSpawner.cs) [VRC-Object-Spawner](https://github.com/Pokeyi/VRC-Object-Spawner) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Object-Spawner/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Object-Spawner/releases) -->
 Network-synced object spawner & controller for VRChat.
 
-### [VRC-Player-Tracking](https://github.com/Pokeyi/VRC-Player-Tracking) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Player-Tracking/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Player-Tracking/releases) -->
+### [📄](https://github.com/Pokeyi/VRC-Player-Tracking/blob/main/P_PlayerTracking.cs) [VRC-Player-Tracking](https://github.com/Pokeyi/VRC-Player-Tracking) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Player-Tracking/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Player-Tracking/releases) -->
 Local player body-part tracking for VRChat.
 
-### [VRC-Raycast-Laser](https://github.com/Pokeyi/VRC-Raycast-Laser) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Raycast-Laser/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Raycast-Laser/releases) -->
+### [📄](https://github.com/Pokeyi/VRC-Raycast-Laser/blob/main/P_RaycastLaser.cs) [VRC-Raycast-Laser](https://github.com/Pokeyi/VRC-Raycast-Laser) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Raycast-Laser/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Raycast-Laser/releases) -->
 Raycast laser renderer and point-plotter for VRChat.
 
 ## Recommended Projects
