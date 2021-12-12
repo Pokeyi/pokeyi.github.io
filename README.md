@@ -6,7 +6,6 @@ Simple HTML page for [Pokeyi.dev](https://pokeyi.dev) utilizing GitHub Pages. Al
 ### Features
 - CSS Framework: [Bulma](https://bulma.io)
 - Icon Set: [Font Awesome](https://fontawesome.com)
-- CNAME file for DNS resolution.
 
 ## My Projects
 I'll use this repository as a hub for my other projects as well.
@@ -31,6 +30,13 @@ Local player body-part tracking for VRChat.
 
 ### [VRC-Raycast-Laser](https://github.com/Pokeyi/VRC-Raycast-Laser) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Raycast-Laser/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Raycast-Laser/releases) -->
 Raycast laser renderer and point-plotter for VRChat.
+
+## Recommended Projects
+Other useful VRChat world-creation tools that I will always recommend.
+- [World Creator Assistant](https://github.com/Varneon/WorldCreatorAssistant) (SDK & Package Management)
+- [CyanEmu](https://github.com/CyanLaser/CyanEmu) (Unity-Window Testing)
+- [Udon AudioLink](https://github.com/llealloo/vrc-udon-audio-link) (Audio Data Input)
+- [Udon Platform Hook](https://github.com/Superbstingray/UdonPlayerPlatformHook) (Moving-Platform Functionality)
 
 ## Credit & Support
 Please credit me as Pokeyi if you use my work. I would also love to see your creations that make use of it if you're inclined to share. This and [related projects](https://github.com/Pokeyi/pokeyi.github.io#my-projects) at release have involved over three months of solid work and self-education as I strive for an opportunity to change careers and make a better life for myself. If you find value in my work, please consider supporting me, I appreciate it more than you can imagine!
@@ -61,10 +67,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Recommended Projects
-Other useful VRChat world-creation tools that I will always recommend.
-- [World Creator Assistant](https://github.com/Varneon/WorldCreatorAssistant) (SDK & Package Management)
-- [CyanEmu](https://github.com/CyanLaser/CyanEmu) (Unity-Window Testing)
-- [Udon AudioLink](https://github.com/llealloo/vrc-udon-audio-link) (Audio Data Input)
-- [Udon Platform Hook](https://github.com/Superbstingray/UdonPlayerPlatformHook) (Moving-Platform Functionality)
