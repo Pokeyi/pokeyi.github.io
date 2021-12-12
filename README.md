@@ -47,6 +47,7 @@ Raycast a visual line-rendered laser with optional reflective properties and poi
 
 ## Recommended Projects
 Other useful VRChat world-creation tools that I will always recommend.
+- [UdonSharp](https://github.com/MerlinVR/UdonSharp) (C# Udon Compiler)
 - [World Creator Assistant](https://github.com/Varneon/WorldCreatorAssistant) (SDK & Package Management)
 - [CyanEmu](https://github.com/CyanLaser/CyanEmu) (Unity-Window Testing)
 - [Udon AudioLink](https://github.com/llealloo/vrc-udon-audio-link) (Audio Data Input)
