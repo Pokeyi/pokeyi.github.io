@@ -4,6 +4,7 @@ Main hub for all of my projects as well as host repository to a simple HTML page
 [![Banner](Pokeyi_Banner.png)](https://pokeyi.dev)
 
 ### Features
+The page itself was inspired by [OneVR](https://github.com/oneVR/oneVR.github.io) where I first discovered an example of this framework and learned a few things to build off of.
 - CSS Framework: [Bulma](https://bulma.io)
 - Icon Set: [Font Awesome](https://fontawesome.com)
 
@@ -58,6 +59,10 @@ Raycast laser renderer and point-plotter for VRChat.
 Raycast a visual line-rendered laser with optional reflective properties and point-plotting for collision-detection objects.
 
 ![Preview](https://github.com/Pokeyi/VRC-Raycast-Laser/raw/main/P_RaycastLaser.png)
+
+### In The Works
+Additional projects I'm currently working on to be released later.
+- A UTC-synced day-night cycle effect for VRChat using a combination of post-processing and directional shadow rotation.
 
 ## Recommended Projects
 Other useful VRChat world-creation tools that I will always recommend.
