@@ -62,7 +62,8 @@ Raycast a visual line-rendered laser with optional reflective properties and poi
 
 ### In The Works
 Additional projects I'm currently working on to be released later.
-- A UTC-synced day-night cycle effect for VRChat using a combination of post-processing and directional shadow rotation.
+
+- A surface-sliding object controller for VRChat that translates parent rotation into lateral movement.
 
 ## Recommended Projects
 Other useful VRChat world-creation tools that I will always recommend.
