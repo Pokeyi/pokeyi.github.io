@@ -25,6 +25,13 @@ Manage synced bobbing and rocking motions for multiple floating game objects sim
 
 ![Preview](https://github.com/Pokeyi/VRC-Floater-Sync/raw/main/P_FloaterSync.png)
 
+## [💾](https://github.com/Pokeyi/VRC-Surface-Slide/blob/main/P_SurfaceSlide.cs) [VRC-Surface-Slide](https://github.com/Pokeyi/VRC-Surface-Slide) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Surface-Slide/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Surface-Slide/releases) -->
+Surface sliding object controller for VRChat.
+
+Translate game objects' parent rotations into lateral movement.
+
+![Preview](https://github.com/Pokeyi/VRC-Surface-Slide/raw/main/P_SurfaceSlide.png)
+
 ## [💾](https://github.com/Pokeyi/VRC-Haptics-Profile/blob/main/P_HapticsProfile.cs) [VRC-Haptics-Profile](https://github.com/Pokeyi/VRC-Haptics-Profile) <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Haptics-Profile/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Haptics-Profile/releases) -->
 Controller haptics profile for VRChat.
 
@@ -63,7 +70,7 @@ Raycast a visual line-rendered laser with optional reflective properties and poi
 ### In The Works
 Additional projects I'm currently working on to be released later.
 
-- A surface-sliding object controller for VRChat that translates parent rotation into lateral movement.
+- Coming Soon
 
 ## Recommended Projects
 Other useful VRChat world-creation tools that I will always recommend.
