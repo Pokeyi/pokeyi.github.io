@@ -1,0 +1,20 @@
+{
+    "name":"Pokeyi's Udon Tools",
+    "id":"io.github.pokeyi.vpm",
+    "url":"https://pokeyi.dev/vrchat/vpm.json",
+    "author":{
+        "email":"pokeyi@pm.me",
+        "name":"Pokeyi",
+        "url":"https://pokeyi.dev"
+    },
+    "githubRepos":[
+        "pokeyi/vrc-omni-action",
+        "pokeyi/vrc-animation-sync",
+        "pokeyi/vrc-player-tracking",
+        "pokeyi/vrc-object-spawner",
+        "pokeyi/vrc-haptics-profile",
+        "pokeyi/vrc-floater-sync",
+        "pokeyi/vrc-surface-slide",
+        "pokeyi/vrc-raycast-laser"
+    ]
+}
