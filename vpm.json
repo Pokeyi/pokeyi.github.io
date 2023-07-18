@@ -8,13 +8,13 @@
         "url":"https://pokeyi.dev"
     },
     "githubRepos":[
-        "pokeyi/vrc-omni-action",
-        "pokeyi/vrc-animation-sync",
-        "pokeyi/vrc-player-tracking",
-        "pokeyi/vrc-object-spawner",
-        "pokeyi/vrc-haptics-profile",
-        "pokeyi/vrc-floater-sync",
-        "pokeyi/vrc-surface-slide",
-        "pokeyi/vrc-raycast-laser"
+        "Pokeyi/VRC-Omni-Action",
+        "Pokeyi/VRC-Animation-Sync",
+        "Pokeyi/VRC-Player-Tracking",
+        "Pokeyi/VRC-Object-Spawner",
+        "Pokeyi/VRC-Haptics-Profile",
+        "Pokeyi/VRC-Floater-Sync",
+        "Pokeyi/VRC-Surface-Slide",
+        "Pokeyi/VRC-Raycast-Laser"
     ]
 }
