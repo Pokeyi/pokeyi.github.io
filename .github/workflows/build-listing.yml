@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: vrchat/vpm.json
+    paths: vpm.json
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -18,7 +18,7 @@ concurrency:
   cancel-in-progress: true
   
 env:
-  listPublishDirectory: vrchat/vpm
+  listPublishDirectory: vpm
   pathToCi: ci
 
 jobs:
