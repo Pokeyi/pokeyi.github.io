@@ -3,11 +3,6 @@ Main hub for all of my projects as well as host repository to a simple HTML page
 
 [![Banner](Pokeyi_Banner.png)](https://pokeyi.dev)
 
-### Features
-The page itself was inspired by [OneVR](https://github.com/oneVR/oneVR.github.io) where I first discovered an example of this framework and learned a few things to build off of.
-- CSS Framework: [Bulma](https://bulma.io)
-- Icon Set: [Font Awesome](https://fontawesome.com)
-
 # My Projects
 My current projects are listed below, primarily VRChat world-creation behaviours written with UdonSharp (C#). Disk icons link direct to relevant code.
 
@@ -67,10 +62,10 @@ Raycast a visual line-rendered laser with optional reflective properties and poi
 
 ![Preview](https://github.com/Pokeyi/VRC-Raycast-Laser/raw/main/P_RaycastLaser.png)
 
-### In The Works
-Additional projects I'm currently working on to be released later.
-
-- Coming Soon
+## Website Features
+The page itself was inspired by [OneVR](https://github.com/oneVR/oneVR.github.io) where I first discovered an example of this framework and learned a few things to build off of.
+- CSS Framework: [Bulma](https://bulma.io)
+- Icon Set: [Font Awesome](https://fontawesome.com)
 
 ## Recommended Projects
 Other useful VRChat world-creation tools that I will always recommend.
