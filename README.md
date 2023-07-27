@@ -4,7 +4,7 @@ Main hub for all of my projects as well as host repository to a simple HTML page
 [![Banner](Pokeyi_Banner.png)](https://pokeyi.dev)
 
 # My Projects
-My current projects are listed below, primarily VRChat world-creation behaviours written with UdonSharp (C#). Disk icons link direct to relevant code.
+My current projects are listed below, primarily VRChat world-creation behaviours written with UdonSharp (C#). Disk icons link direct to relevant code. ***These projects can now be imported through the VRChat Creator Companion App (VCC) with the [Pokeyi's Udon Tools](https://github.com/Pokeyi/vpm-packages#vpm-packages) VPM package.***
 
 ## [💾](https://github.com/Pokeyi/VRC-Omni-Action/blob/main/P_OmniAction.cs) [VRC-Omni-Action](https://github.com/Pokeyi/VRC-Omni-Action) [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Omni-Action/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Omni-Action/releases)
 Multi-purpose user-action/event and function-handling component for VRChat.
